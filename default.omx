@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Open_Mod_Manager_Repository>
+  <uuid>c0d4c4fd-99db-4151-8749-fc0724a783f0</uuid>
+  <title>OMMREPO</title>
+  <downpath>files/</downpath>
+  <references count="0">
+    <mod ident="GalaxyPeer_v1.0" file="GalaxyPeer_v1.0.ozp" bytes="970" xxhsum="4e7cd202e55ec30d" category="Generic">
+      <description bytes="32">data:application/octet-stream;base64,eJxz93dXcHf0cYyIVAhwdQ1SCHMNcvIPdlXw8Xd39/RzZwAAjbMIbQ==</description>
+    </mod>
+  </references>
+</Open_Mod_Manager_Repository>
