@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Open_Mod_Manager_Repository>
   <uuid>44aefdc5-ff7b-44a3-bd21-6469544dba4f</uuid>
-  <title>New Repository</title>
+  <title>OMMREPO UNIVERSAL</title>
   <downpath>files/original/</downpath>
   <references count="0">
     <mod ident="DDrawCompat_v0.6.0" file="DDrawCompat_v0.6.0.ozp" bytes="12553227" xxhsum="eb690352a8ee6e58" category="Plugin">

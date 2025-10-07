@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Open_Mod_Manager_Repository>
   <uuid>909a079a-2fcf-4c55-9f00-026f68ddf6c3</uuid>
-  <title>New Repository</title>
+  <title>OMMREPO NFS MW</title>
   <downpath>files/nfsmw/</downpath>
   <references count="0">
     <mod ident="Modern_Rockport_v1.0" file="Modern_Rockport_v1.0.ozp" bytes="86883886" xxhsum="2c482b04abd0a748" category="Texture">
